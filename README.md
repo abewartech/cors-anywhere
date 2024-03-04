@@ -41,7 +41,7 @@ Request examples:
 Live examples:
 
 * https://cors.cakrawala.id/
-* https://robwu.nl/cors-anywhere.html - This demo shows how to use the API.
+* https://proxy.cakrawala.id/ - This demo shows how to use the API.
 
 ## Documentation
 
